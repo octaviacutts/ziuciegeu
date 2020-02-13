@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maumahfoow.monadic.pl/sitemap.xml
